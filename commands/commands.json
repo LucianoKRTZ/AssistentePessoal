@@ -1,0 +1,14 @@
+{
+    "commands": {
+        "start": {
+            "steam":{
+                "path": "C:\\Program Files\\Steam\\steam.exe",
+                "description": "Launch Steam client"
+            },
+            "opera": {
+                "path": "C:\\Program Files\\Opera\\launcher.exe",
+                "description": "Launch Opera browser"
+            }
+        }
+    }
+}
